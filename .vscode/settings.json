@@ -1,0 +1,6 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.pythonPath": "/home/rico/miniconda3/envs/scripting/bin/python",
+    "python.dataScience.jupyterServerURI": "local"
+}
